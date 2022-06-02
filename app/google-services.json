@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "591026517836",
+    "firebase_url": "https://boikhuji-41a84-default-rtdb.firebaseio.com",
+    "project_id": "boikhuji-41a84",
+    "storage_bucket": "boikhuji-41a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591026517836:android:7d23ae232585b687c401e9",
+        "android_client_info": {
+          "package_name": "com.example.boikhuji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591026517836-0c3hac5dpqkn9jubu1jn2u504h3gven1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBy18sfZx_3J7Cd1dt-4ZEfZ2IaUYsVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591026517836-0c3hac5dpqkn9jubu1jn2u504h3gven1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591026517836:android:dcd0b9aca6b68099c401e9",
+        "android_client_info": {
+          "package_name": "com.example.boikhujiseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591026517836-0c3hac5dpqkn9jubu1jn2u504h3gven1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBy18sfZx_3J7Cd1dt-4ZEfZ2IaUYsVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591026517836-0c3hac5dpqkn9jubu1jn2u504h3gven1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

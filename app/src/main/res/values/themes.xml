@@ -1,0 +1,96 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BoiKhujiSeller" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+
+        <item name="colorAccent">@color/teal_200</item>
+
+        <item name="drawerArrowStyle">@style/DrawerIcon</item>
+
+    </style>
+
+
+    <style name="DrawerIcon" parent="Widget.AppCompat.DrawerArrowToggle">
+
+    </style>
+
+    <style name="Theme.BoiKhujiSeller.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+
+    <style name="viewParent">
+
+        <item name="android:layout_width">wrap_content</item>
+
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+
+
+
+    <style name="parent">
+
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+
+
+
+
+    <style name="viewParent.headerText">
+
+        <item name="android:textColor">@color/contentTextColor</item>
+
+        <item name="android:textSize">25sp</item>
+
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+
+
+    <style name="viewParent.headerText.NoMode">
+
+        <item name="android:textColor">@color/darkTextColor</item>
+
+    </style>
+
+
+
+
+
+    <style name="modifiedEditText" parent="parent">
+
+        <item name="android:textSize">12sp</item>
+
+        <item name="android:backgroundTint">@color/primaryTextColor</item>
+
+    </style>
+
+
+    <style name="loginButton" parent="viewParent">
+
+        <item name="android:background">@drawable/button_background_blue</item>
+
+        <item name="android:textColor">@color/whiteTextColor</item>
+
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+
+
+</resources>
